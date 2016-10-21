@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package boletin_4;
+package boletin5_4;
 
 /**
  *
  * @author klemavilanova
  */
-public class Boletin_4 {
+public class Boletin5_4 {
 
     /**
      * @param args the command line arguments
